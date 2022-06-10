@@ -17,14 +17,17 @@ public class Slot {
         System.out.println("would you like to have room sir?");
 
         String oo= inp.nextLine();
-        System.out.println(oo);
+        
         if (oo.equals(m))
         {
-            System.out.printf("Your room No.is ");
+            System.out.printf("Your room No. is %d ",j);
+            System.out.println("");
+
             System.out.println("Thank_You for visiting :)");
 
         }
-        System.out.println("");
+        else;
+        System.out.println("Thank_You for visiting :)");
 
    }
 }
