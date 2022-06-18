@@ -2,7 +2,7 @@ package myStore;
 
  class picture extends City {
 	 protected void screenPlay(String q) {
-		 int l=5;
+		// int l=5;
 		 System.out .println("New song to shoot in "+s);
 	 }
 	 public void mumbai(String v) {

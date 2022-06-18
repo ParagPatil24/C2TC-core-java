@@ -20,23 +20,20 @@ public class Slot {
         
         if (oo.equals(m))
         {
-<<<<<<< HEAD
+
             System.out.printf("Your room No. is %d ",j);
             System.out.println("");
 
-=======
+
             System.out.printf("Your room No.is %d ",j);
             System.out.println("");
->>>>>>> branch 'master' of https://github.com/ParagPatil24/C2TC-core-java.git
+
             System.out.println("Thank_You for visiting :)");
 
         }
         else;
         System.out.println("Thank_You for visiting :)");
-<<<<<<< HEAD
-=======
-        
->>>>>>> branch 'master' of https://github.com/ParagPatil24/C2TC-core-java.git
+
 
    }
 }
