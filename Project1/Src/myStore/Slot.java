@@ -21,10 +21,6 @@ public class Slot {
         if (oo.equals(m))
         {
 
-            System.out.printf("Your room No. is %d ",j);
-            System.out.println("");
-
-
             System.out.printf("Your room No.is %d ",j);
             System.out.println("");
 
