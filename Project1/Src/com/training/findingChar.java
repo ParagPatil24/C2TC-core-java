@@ -1,4 +1,4 @@
-package myStore;
+package com.training;
 
 public class findingChar{
 	public static void main(String[] args) {

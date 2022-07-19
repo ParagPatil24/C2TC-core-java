@@ -1,4 +1,4 @@
-package myStore;
+package com.training;
 
  class picture extends City {
 	 protected void screenPlay(String q) {

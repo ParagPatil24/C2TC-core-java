@@ -1,4 +1,4 @@
-package myStore;
+package com.training;
 
 import java.util.Scanner;
 

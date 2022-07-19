@@ -1,10 +1,10 @@
-package myStore;
+package com.training;
 
 
 
 import java.util.Scanner;
 
-public class Slot {
+public class Hotelwelcome {
     public static void main(String[] args) {
         Scanner inp= new Scanner(System.in);
         System.out.println( "new code");
@@ -20,8 +20,7 @@ public class Slot {
         
         if (oo.equals(m))
         {
-
-            System.out.printf("Your room No.is %d ",j);
+            System.out.printf("Your room No. is %d ",j);
             System.out.println("");
 
             System.out.println("Thank_You for visiting :)");
@@ -29,7 +28,6 @@ public class Slot {
         }
         else;
         System.out.println("Thank_You for visiting :)");
-
 
    }
 }
